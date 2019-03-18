@@ -21,7 +21,7 @@ BankMarketingData.csv - Bank Marketing Data in csv format
 rsingh334-analysis.pdf - contains the written report derived from the performed analyses/experiments
 
 How to use:
-- The code contains commented headers which describe what each section of comments does, be it KNN analysis looking for k, or Neural Networks
+- The code contains commented headers which describe what each section of comments does, be it K-means analysis looking for k, or Neural Networks
 - Simply uncomment the section of code you'd like to run, corresponding to an analysis, and run the python file
 
 How to run a Python file:
